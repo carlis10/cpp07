@@ -221,4 +221,5 @@ c++ -Wall -Wextra -Werror -std=c++98
 
 ## Autor
 
+Carlos Raveglia Cuesta.
 Proyecto realizado como parte del currículo de la escuela 42.
