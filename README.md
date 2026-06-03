@@ -191,7 +191,7 @@ make
 ## Ejecución
 
 ```bash
-./whatever
+./Template
 ```
 
 ```bash
